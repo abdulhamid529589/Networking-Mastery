@@ -1,9 +1,9 @@
 # 🌐 Network Layer — Responsibilities & Functionalities
 
-### Cybersecurity Student Notes | Networking Course — Lecture 10
+### " "Networking Course — Lecture 10
 
 > **Source:** Gate Smashers — Network Layer Responsibilities
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -824,6 +824,6 @@ nmap -sn 192.168.56.0/24 &             # IP/ICMP scan
 ---
 
 _Notes compiled from: Networking Course Lecture 10 — Network Layer Responsibilities_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

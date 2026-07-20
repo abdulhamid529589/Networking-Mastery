@@ -1,6 +1,6 @@
 # 🔐 IPsec — Transport Mode vs Tunnel Mode
 
-### Cybersecurity Student Notes | Networking Course — Network Layer Security
+### " "Networking Course — Network Layer Security
 
 > **Source:** Gate Smashers — IPsec Transport Mode and Tunnel Mode
 > **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Security+ · CEH
@@ -1701,6 +1701,6 @@ Answer:
 ---
 
 _Notes compiled from: Networking Course — IPsec Transport Mode and Tunnel Mode (Gate Smashers)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
 _Author: Cybersecurity Dept. Student_

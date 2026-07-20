@@ -1,9 +1,9 @@
 # 🌐 IP Addressing — Need for IPv6 (Why IPv6?)
 
-### Cybersecurity Student Notes | Networking Course — Lecture 52
+### " "Networking Course — Lecture 52
 
 > **Source:** Gate Smashers — Need for IPv6 / Why IPv6?
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -609,6 +609,6 @@ at each router despite the larger fixed size.
 ---
 
 _Notes compiled from: Networking Course Lecture 52 — Need for IPv6_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

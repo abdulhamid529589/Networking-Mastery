@@ -1,6 +1,6 @@
 # 🔗 Switching — Packet Switching
 
-### Cybersecurity Student Notes | Networking Course — Lecture 17
+### " "Networking Course — Lecture 17
 
 > **Source:** Gate Smashers — Packet Switching
 > **Exam Relevance:** GATE (high — theory + numericals) · UGC NET (high)
@@ -289,4 +289,4 @@ Where n = number of switches the packet passes through
 _Notes compiled from: Networking Course Lecture 17 — Packet Switching_
 _Source: Gate Smashers YouTube (original lecture in Hindi; notes translated and structured in English for consistency with the rest of this notes series)_
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

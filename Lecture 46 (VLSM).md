@@ -1,9 +1,9 @@
 # 🌐 VLSM — Variable Length Subnet Masking
 
-### Cybersecurity Student Notes | Networking Course — Lecture 46
+### " "Networking Course — Lecture 46
 
 > **Source:** Gate Smashers — VLSM (Variable Length Subnet Masking)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -715,6 +715,6 @@ for i, r in enumerate(sorted(reqs, reverse=True), 1):
 ---
 
 _Notes compiled from: Networking Course Lecture 46 — VLSM (Variable Length Subnet Masking)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

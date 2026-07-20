@@ -1,6 +1,6 @@
 # 🔗 Networking Devices — Hub
 
-### Cybersecurity Student Notes | Networking Course — Lecture 11
+### " "Networking Course — Lecture 11
 
 > **Source:** Gate Smashers — Networking Devices: Hub
 > **Exam Relevance:** UGC NET (high) · GATE (secondary — instructor notes this topic is mainly for Electronics students) · PSU Exams
@@ -189,6 +189,6 @@ This lecture directly reinforces the Star-topology security weakness already cov
 ---
 
 _Notes compiled from: Networking Course Lecture 11 — Networking Devices: Hub_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

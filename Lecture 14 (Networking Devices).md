@@ -1,6 +1,6 @@
 # 🔗 Networking Devices — Router
 
-### Cybersecurity Student Notes | Networking Course — Lecture 14
+### " "Networking Course — Lecture 14
 
 > **Source:** Gate Smashers — Networking Devices: Router
 > **Exam Relevance:** UGC NET (high) · GATE (basic level) · PSU Exams · University Exams
@@ -242,6 +242,6 @@ Interface 2's IP address → taken from Network B's IP address range
 ---
 
 _Notes compiled from: Networking Course Lecture 14 — Networking Devices: Router_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

@@ -1,6 +1,6 @@
 # 🔗 Switching — Datagram Service vs Virtual Circuit
 
-### Cybersecurity Student Notes | Networking Course — Lecture 18
+### " "Networking Course — Lecture 18
 
 > **Source:** Gate Smashers — Datagram Switching & Virtual Circuit
 > **Exam Relevance:** GATE (high — very frequently tested comparison) · UGC NET (high)
@@ -285,6 +285,6 @@ Remaining packets only need a smaller "LOCAL header"
 ---
 
 _Notes compiled from: Networking Course Lecture 18 — Datagram Switching & Virtual Circuit_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

@@ -1,9 +1,9 @@
 # ⚡ Physical Layer — OSI Model Layer 1
 
-### Cybersecurity Student Notes | Networking Course — Lecture 04
+### Networking Course — Lecture 04
 
 > **Source:** Gate Smashers — Physical Layer & Its Functionalities
-> **Exam Relevance:** GATE · University Exams · Interviews · CompTIA ITF+ / Network+
+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -782,6 +782,5 @@ sudo systemctl status udisks2
 ---
 
 _Notes compiled from: Networking Course Lecture 04 — Physical Layer & Functionalities_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

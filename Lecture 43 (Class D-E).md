@@ -1,9 +1,9 @@
 # 🌐 IP Addressing — Class D & Class E
 
-### Cybersecurity Student Notes | Networking Course — Lecture 43
+### " "Networking Course — Lecture 43
 
 > **Source:** Gate Smashers — Class D & Class E in IP Addressing
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -1080,6 +1080,6 @@ Given any IP address → look at first octet value:
 ---
 
 _Notes compiled from: Networking Course Lecture 43 — Class D & Class E IP Addressing_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

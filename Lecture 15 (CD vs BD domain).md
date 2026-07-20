@@ -1,9 +1,9 @@
 # 🔗 Collision Domain vs Broadcast Domain — Across Networking Devices
 
-### Cybersecurity Student Notes | Networking Course — Lecture 15
+### " "Networking Course — Lecture 15
 
 > **Source:** Gate Smashers — Collision Domain & Broadcast Domain
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews (very high-yield synthesis topic)
+
 > **Topic Area:** Cross-cutting review — Repeater, Hub, Bridge, Switch, Router, Gateway
 
 ---
@@ -294,6 +294,6 @@ Top Model (Gateway)         →  everything below + protocol translation (up to 
 ---
 
 _Notes compiled from: Networking Course Lecture 15 — Collision Domain & Broadcast Domain_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

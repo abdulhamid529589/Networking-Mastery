@@ -1,9 +1,9 @@
 # 🧩 Hamming Code — Error Detection & Correction
 
-### Cybersecurity Student Notes | Networking Course — Lecture 30
+### " "Networking Course — Lecture 30
 
 > **Source:** Gate Smashers — Hamming Code (Error Detection & Correction)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -745,6 +745,6 @@ print(f'Match original: {result[\"recovered_data\"] == memory_word}')
 ---
 
 _Notes compiled from: Networking Course Lecture 30 — Hamming Code (Error Detection & Correction)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

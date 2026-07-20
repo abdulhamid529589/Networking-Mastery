@@ -1,9 +1,9 @@
 # ⏱️ Stop-and-Wait Protocol — Flow & Error Control
 
-### Cybersecurity Student Notes | Networking Course — Lecture 22
+### " "Networking Course — Lecture 22
 
 > **Source:** Gate Smashers — Stop and Wait Protocol
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -360,6 +360,6 @@ sudo tcpdump -i eth0 host 192.168.56.101 and tcp -A -v | head -50
 ---
 
 _Notes compiled from: Networking Course Lecture 22 — Stop-and-Wait Protocol_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

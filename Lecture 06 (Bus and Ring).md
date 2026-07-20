@@ -1,9 +1,9 @@
 # 🔗 Network Topologies — Bus & Ring
 
-### Cybersecurity Student Notes | Networking Course — Lecture 06
+### Networking Course — Lecture 06
 
 > **Source:** Gate Smashers — Topology (Part 2)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -449,6 +449,5 @@ arping -c 3 192.168.56.101
 ---
 
 _Notes compiled from: Networking Course Lecture 06 — Topology Part 2 (Bus & Ring)_
-_Source: Gate Smashers YouTube_
+
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

@@ -1,9 +1,9 @@
 # 📡 CSMA — Carrier Sense Multiple Access
 
-### Cybersecurity Student Notes | Networking Course — Lecture 34
+### " "Networking Course — Lecture 34
 
 > **Source:** Gate Smashers — Multiple Access Protocols (CSMA)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 > **Builds on:** Lecture 32 (Pure ALOHA) & Lecture 33 (Slotted ALOHA) — CSMA is the next evolutionary step after ALOHA
 
@@ -435,6 +435,6 @@ EOF
 ---
 
 _Notes compiled from: Networking Course Lecture 34 — CSMA (Multiple Access Protocols)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

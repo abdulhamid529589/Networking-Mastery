@@ -1,9 +1,9 @@
 # 📦 IPv4 Header — All Fields Explained
 
-### Cybersecurity Student Notes | Networking Course — Lecture 15
+### " "Networking Course — Lecture 15
 
 > **Source:** Gate Smashers — IPv4 Header
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -900,6 +900,6 @@ for field, value in result.items():
 ---
 
 _Notes compiled from: Networking Course Lecture 15 — IPv4 Header Fields_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

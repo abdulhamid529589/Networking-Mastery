@@ -1,6 +1,6 @@
 # 🔗 Networking Devices — Cables (UTP, Coaxial, Fiber Optic)
 
-### Cybersecurity Student Notes | Networking Course — Lecture 09
+### " "Networking Course — Lecture 09
 
 > **Source:** Gate Smashers — Networking Devices: Cable
 > **Exam Relevance:** GATE · UGC NET · PSU Exams · University Exams · CompTIA Network+
@@ -238,6 +238,6 @@ has NO way to stop it or decide otherwise.
 ---
 
 _Notes compiled from: Networking Course Lecture 09 — Networking Devices: Cable_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

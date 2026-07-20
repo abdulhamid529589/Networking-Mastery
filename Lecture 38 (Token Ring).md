@@ -1,9 +1,9 @@
 # 🌐 Token Ring — IEEE 802.5
 
-### Cybersecurity Student Notes | Networking Course — Lecture 38
+### " "Networking Course — Lecture 38
 
 > **Source:** Gate Smashers — Token Ring / IEEE 802.5
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -1018,6 +1018,6 @@ echo "  Token Ring FS bits = embedded delivery confirmation (more efficient)"
 ---
 
 _Notes compiled from: Networking Course Lecture 42 — Token Ring / IEEE 802.5_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

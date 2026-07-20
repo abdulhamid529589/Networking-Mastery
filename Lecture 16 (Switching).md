@@ -1,6 +1,6 @@
 # 🔗 Switching — Circuit Switching
 
-### Cybersecurity Student Notes | Networking Course — Lecture 16
+### " "Networking Course — Lecture 16
 
 > **Source:** Gate Smashers — Circuit Switching
 > **Exam Relevance:** GATE (high — theory + numericals) · UGC NET (high)
@@ -242,6 +242,6 @@ Total Time = Setup Time + Transmission Time + Propagation Delay + Tear-Down Time
 ---
 
 _Notes compiled from: Networking Course Lecture 16 — Circuit Switching_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

@@ -1,9 +1,9 @@
 # 📡 Types of Casting — Unicast, Broadcast & Multicast
 
-### Cybersecurity Student Notes | Networking Course — Lecture 20
+### " "Networking Course — Lecture 20
 
 > **Source:** Gate Smashers — Types of Casting (Unicast, Broadcast, Multicast)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -357,6 +357,6 @@ show running-config interface <if>
 ---
 
 _Notes compiled from: Networking Course Lecture 20 — Types of Casting (Unicast, Broadcast, Multicast)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

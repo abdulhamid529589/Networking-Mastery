@@ -1,6 +1,6 @@
 # 📡 Distance Vector Routing (DVR) — Working & Methodology
 
-### Cybersecurity Student Notes | Networking Course — Network Layer
+### " "Networking Course — Network Layer
 
 > **Source:** Gate Smashers — Distance Vector Routing
 > **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Security+ · CEH
@@ -1955,6 +1955,6 @@ KEY POINTS:
 ---
 
 _Notes compiled from: Networking Course — Distance Vector Routing (Gate Smashers)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
 _Author: Cybersecurity Dept. Student_

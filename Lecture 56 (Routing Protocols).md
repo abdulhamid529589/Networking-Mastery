@@ -1,6 +1,6 @@
 # 🌐 Routing Protocols — Introduction & Categorisation
 
-### Cybersecurity Student Notes | Networking Course — Network Layer
+### " "Networking Course — Network Layer
 
 > **Source:** Gate Smashers — Routing Protocols and Its Categorisation
 > **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Security+ · CEH
@@ -2139,6 +2139,6 @@ KEY DIFFERENCES SUMMARY:
 ---
 
 _Notes compiled from: Networking Course — Routing Protocols and Its Categorisation (Gate Smashers)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
 _Author: Cybersecurity Dept. Student_

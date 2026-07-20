@@ -1,9 +1,9 @@
 # 🌐 TCP/IP Protocol Suite & TCP/IP vs OSI Model
 
-### Cybersecurity Student Notes | Networking Course — Lecture 03
+### Networking Course — Lecture 03
 
 > **Source:** Gate Smashers — TCP/IP Protocol Suite
-> **Exam Relevance:** GATE · University Exams · Interviews · CompTIA ITF+ / Security+
+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -663,6 +663,5 @@ sudo tcpdump -i eth0 port 53 -v
 ---
 
 _Notes compiled from: Networking Course Lecture 03 — TCP/IP Protocol Suite & TCP/IP vs OSI_
-_Source: Gate Smashers YouTube_
+
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

@@ -1,9 +1,9 @@
 # 🔄 CRC — Cyclic Redundancy Check
 
-### Cybersecurity Student Notes | Networking Course — Lecture 29
+### " "Networking Course — Lecture 29
 
 > **Source:** Gate Smashers — CRC (Cyclic Redundancy Check)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -804,6 +804,6 @@ rm /tmp/test_data.txt
 ---
 
 _Notes compiled from: Networking Course Lecture 09 — CRC (Cyclic Redundancy Check)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

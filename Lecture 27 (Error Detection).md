@@ -1,9 +1,9 @@
 # 🛡️ Error Detection & Correction — Introduction
 
-### Cybersecurity Student Notes | Networking Course — Lecture 27
+### " "Networking Course — Lecture 27
 
 > **Source:** Gate Smashers — Error Detection and Correction (Part 27 of series)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -735,4 +735,4 @@ EOF
 _Notes compiled from: Networking Course Lecture 07 — Error Detection & Correction Introduction_
 _Source: Gate Smashers YouTube (Part 27 of series)_
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

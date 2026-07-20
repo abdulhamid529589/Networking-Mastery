@@ -1,9 +1,9 @@
 # 🔗 Network Topologies — Mesh & Star
 
-### Cybersecurity Student Notes | Networking Course — Lecture 05
+### Networking Course — Lecture 05
 
 > **Source:** Gate Smashers — Topology (Part 1)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -649,6 +649,5 @@ traceroute 8.8.8.8
 ---
 
 _Notes compiled from: Networking Course Lecture 05 — Topology Part 1 (Mesh & Star)_
-_Source: Gate Smashers YouTube_
+
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

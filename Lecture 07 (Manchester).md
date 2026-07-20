@@ -1,9 +1,9 @@
 # 🔗 Digital-to-Digital Encoding — Manchester & Differential Manchester
 
-### Cybersecurity Student Notes | Networking Course — Lecture 07
+### Networking Course — Lecture 07
 
 > **Source:** Gate Smashers — Manchester & Differential Manchester Encoding
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Topic Area:** Physical Layer — Line Coding / Digital-to-Digital Encoding
 
 ---
@@ -237,6 +237,6 @@ While this topic is primarily theoretical/exam-focused, understanding line codin
 ---
 
 _Notes compiled from: Networking Course Lecture 07 — Manchester & Differential Manchester Encoding_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

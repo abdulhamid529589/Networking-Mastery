@@ -1,9 +1,9 @@
 # ⚡ Flow Control Protocols — Full Comparison & Efficiency Formulas
 
-### Cybersecurity Student Notes | Networking Course — Lecture 25 (Last-Minute Revision)
+### " "Networking Course — Lecture 25 (Last-Minute Revision)
 
 > **Source:** Gate Smashers — Flow Control Protocols: Stop & Wait vs Go-Back-N vs Selective Repeat (Quick Revision)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -363,6 +363,6 @@ sudo tcpdump -i eth0 host 192.168.56.101 and tcp -v | grep -i "win "
 ---
 
 _Notes compiled from: Networking Course Lecture 25 — Flow Control Protocols (Last-Minute Revision)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

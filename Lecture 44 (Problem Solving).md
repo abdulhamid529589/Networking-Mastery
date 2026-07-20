@@ -1,6 +1,6 @@
 # 🔗 IP Addressing — Classful Addressing (Solving Questions)
 
-### Cybersecurity Student Notes | Networking Course — Lecture 19
+### " "Networking Course — Lecture 19
 
 > **Source:** Gate Smashers — Classful IP Addressing (Solved Question)
 > **Exam Relevance:** GATE (high — numericals) · UGC NET · Banking Exams · University Exams
@@ -312,6 +312,6 @@ For any Class C network (using `201.20.30.0` as the example):
 ---
 
 _Notes compiled from: Networking Course Lecture 19 — Classful IP Addressing (Solved Question)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

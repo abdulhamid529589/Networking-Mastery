@@ -1,6 +1,6 @@
 # 🔗 Networking Devices — Repeater
 
-### Cybersecurity Student Notes | Networking Course — Lecture 10
+### " "Networking Course — Lecture 10
 
 > **Source:** Gate Smashers — Networking Devices: Repeater
 > **Exam Relevance:** GATE (lower priority) · UGC NET · PSU Exams · University Exams
@@ -209,6 +209,6 @@ YES — even though B is already reachable without crossing the repeater.
 ---
 
 _Notes compiled from: Networking Course Lecture 10 — Networking Devices: Repeater_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

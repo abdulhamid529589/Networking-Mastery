@@ -1,9 +1,9 @@
 # 🎯 Selective Repeat ARQ — Sliding Window Protocol
 
-### Cybersecurity Student Notes | Networking Course — Lecture 24
+### " "Networking Course — Lecture 24
 
 > **Source:** Gate Smashers — Selective Repeat ARQ
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -411,6 +411,6 @@ sudo tc qdisc del dev eth0 root netem
 ---
 
 _Notes compiled from: Networking Course Lecture 24 — Selective Repeat ARQ_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

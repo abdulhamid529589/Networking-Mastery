@@ -1,8 +1,7 @@
 # 🌐 Computer Networks — Fundamentals
 
-### Cybersecurity Student Notes | Networking Course — Lecture 01
+### Networking Course — Lecture 01
 
-> **Target:** University Cybersecurity Dept. Student
 > **Scope:** Theory + Practical Attack Surface + Ethical Hacking Context
 > **Lab Environment:** Parrot OS (VirtualBox) · Metasploitable2 · Own Web Projects
 
@@ -762,4 +761,3 @@ Based on the lecture, next chapters will cover:
 
 _Notes compiled from: Networking Course Lecture 01 — Computer Networks Fundamentals_
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

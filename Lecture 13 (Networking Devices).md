@@ -1,6 +1,6 @@
 # 🔗 Networking Devices — Switch
 
-### Cybersecurity Student Notes | Networking Course — Lecture 13
+### " "Networking Course — Lecture 13
 
 > **Source:** Gate Smashers — Networking Devices: Switch
 > **Exam Relevance:** GATE · UGC NET · PSU Exams · University Exams · Interviews
@@ -198,6 +198,6 @@ SWITCH behavior:
 ---
 
 _Notes compiled from: Networking Course Lecture 13 — Networking Devices: Switch_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

@@ -1,9 +1,7 @@
 # 🌐 Types of Computer Networks
 
-### Cybersecurity Student Notes | Networking Course — Lecture 02
+### Networking Course — Lecture 02
 
-> **Source:** Hindi lecture transcript — Types of Computer Networks
-> **Exam Relevance:** GATE · University Exams · Interviews · CompTIA ITF+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -564,6 +562,5 @@ SECURITY QUICK MAP:
 ---
 
 _Notes compiled from: Networking Course Lecture 02 — Types of Computer Networks_
-_Source language: Hindi lecture transcript_
+
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_

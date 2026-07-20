@@ -1,9 +1,9 @@
 # 🌐 IPv6 Header — Structure, Fields & Extension Headers
 
-### Cybersecurity Student Notes | Networking Course — Lecture 53
+### " "Networking Course — Lecture 53
 
 > **Source:** Gate Smashers — IPv6 Headers
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -1386,6 +1386,6 @@ Recommended action:
 ---
 
 _Notes compiled from: Networking Course — IPv6 Headers (Gate Smashers)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

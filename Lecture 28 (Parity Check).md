@@ -1,9 +1,9 @@
 # 🔍 Parity Check & Hamming Distance
 
-### Cybersecurity Student Notes | Networking Course — Lecture 08
+### " "Networking Course — Lecture 08
 
 > **Source:** Gate Smashers — Single Parity Bit & Hamming Distance
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -785,6 +785,6 @@ EOF
 ---
 
 _Notes compiled from: Networking Course Lecture 08 — Single Parity Bit & Hamming Distance_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

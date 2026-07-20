@@ -1,9 +1,9 @@
 # 📡 Medium/Multiple Access Control (MAC) Protocols
 
-### Cybersecurity Student Notes | Networking Course — Lecture 31
+### " "Networking Course — Lecture 31
 
 > **Source:** Gate Smashers — Various Medium Access Control Protocols
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+/Security+
+> " "/Security+
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -730,6 +730,6 @@ simulate_csma_fairness()
 ---
 
 _Notes compiled from: Networking Course Lecture 31 — Medium/Multiple Access Control Protocols_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

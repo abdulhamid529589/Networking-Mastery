@@ -1,9 +1,9 @@
 # 🔗 Data Link Layer — Functionalities & Responsibilities
 
-### Cybersecurity Student Notes | Networking Course — Lecture 21
+### " "Networking Course — Lecture 21
 
 > **Source:** Gate Smashers — Data Link Layer (OSI Model)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 
 ---
@@ -461,6 +461,6 @@ sha256sum msg.txt
 ---
 
 _Notes compiled from: Networking Course Lecture 21 — Data Link Layer (Functionalities)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

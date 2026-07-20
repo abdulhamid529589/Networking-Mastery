@@ -1,9 +1,9 @@
 # 🔗 Networking Devices — Introduction & Overview
 
-### Cybersecurity Student Notes | Networking Course — Lecture 08
+### " "Networking Course — Lecture 08
 
 > **Source:** Gate Smashers — Networking Devices (Introduction)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Topic Area:** Networking Devices — Overview (each device covered in full detail in later parts)
 
 ---
@@ -188,6 +188,6 @@ This overview maps directly onto a security-minded view of the network:
 ---
 
 _Notes compiled from: Networking Course Lecture 08 — Networking Devices (Introduction)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "

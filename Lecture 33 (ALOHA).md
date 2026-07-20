@@ -1,9 +1,9 @@
 # 📡 Slotted ALOHA — Random Access Protocol
 
-### Cybersecurity Student Notes | Networking Course — Lecture 33
+### " "Networking Course — Lecture 33
 
 > **Source:** Gate Smashers — Multiple Access Protocols (Slotted ALOHA)
-> **Exam Relevance:** GATE · UGC NET · University Exams · Interviews · CompTIA Network+
+> " "
 > **Lab Environment:** Parrot OS + Metasploitable2 + Own MERN/PERN Projects
 > **Builds on:** Lecture 32 — Pure ALOHA (read that first, this lecture is a direct comparison)
 
@@ -431,6 +431,6 @@ EOF
 ---
 
 _Notes compiled from: Networking Course Lecture 33 — Slotted ALOHA (Multiple Access Protocols)_
-_Source: Gate Smashers YouTube_
+" "
 _Environment: Parrot OS + Metasploitable2 + MERN/PERN Web Projects_
-_Author: Cybersecurity Dept. Student — Bangladesh University_
+" "
